@@ -49,14 +49,14 @@ footer a{
 .footer_copyright a{
     color: var(--color-white);
 }
-@media (max-width: 1024px){
+ @media (max-width: 1024px){
   .permalinks{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
     justify-items: center;
   }
-}
+} 
 @media (max-width: 600px){
    .permalinks{
     flex-direction: column;
