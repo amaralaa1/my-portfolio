@@ -33,14 +33,14 @@ const PortfolioData = [
   {
     id: 4,
     image: IMG4,
-    title: 'Java Script',
+    title: 'Java Script 1',
     github: 'https://github.com/amaralaa1/weather',
     demo: 'https://weather-jet-mu.vercel.app/'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Java Script',
+    title: 'Java Script 2',
     github: 'https://github.com/amaralaa1/boomarker',
     demo: 'https://boomarker.vercel.app/'
   },
