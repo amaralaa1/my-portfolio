@@ -8,7 +8,7 @@ function Services() {
   return (
     <section id='services'>
       <div className="top_section">
-        <h2>Services</h2>
+        <h2> MY Services</h2>
       </div>
  <div className="container container_services">
   <article className='card'>
