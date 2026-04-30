@@ -17,8 +17,8 @@ function Home() {
 
 
       <div className="btns">
-        <a href="PUT_YOUR_NEW_LINK_HERE" className='btn' target="_blank">Download CV</a>
-        {/* <a href={CV} className='btn' download>Download CV</a> */}
+        {/* <a href="PUT_YOUR_NEW_LINK_HERE" className='btn' target="_blank">Download CV</a> */}
+        <a href={CV} className='btn' download>Download CV</a>
       </div>
 <div className="me">
   <img src={Me} alt=''/>
