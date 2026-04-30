@@ -10,7 +10,6 @@ footer a{
 }
 .footer_logo{
     font-size: 25px;
-    font-size: 500;
     margin-bottom: 30px;
     display: inline-block;
 }
@@ -18,7 +17,7 @@ footer a{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 1.5rem;
+    gap: 30px;
     margin: 0 auto 30px;
 }
 .footer_socials{
@@ -48,19 +47,11 @@ footer a{
 }
 .footer_copyright a{
     color: var(--color-white);
-}
- @media (max-width: 1024px){
-  .permalinks{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-    justify-items: center;
-  }
 } 
 @media (max-width: 600px){
    .permalinks{
     flex-direction: column;
     align-items: center;
-    gap: 1rem;
+    gap: 20px;
 }
 }

@@ -47,7 +47,7 @@ const PortfolioData = [
   {
     id: 6,
     image: IMG6,
-    title: 'Next JS',
+    title: 'React JS',
     github: 'https://github.com/amaralaa1/notapp',
     demo: 'https://notapp-ten.vercel.app/login'
   }

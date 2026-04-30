@@ -18,7 +18,6 @@ function Home() {
 
       <div className="btns">
         <a href={CV} className='btn' download>Download CV</a>
-         {/* <a href='#' className='btn btn-primary'>Let's talk</a> */}
       </div>
 <div className="me">
   <img src={Me} alt=''/>
