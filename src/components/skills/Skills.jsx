@@ -37,7 +37,7 @@ const SkillsData = [
   {
     id: 5,
     image: Reactjs,
-    title: "React",
+    title: "Reactjs",
     disc: "Frontend library",
   },
   {
