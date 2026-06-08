@@ -11,8 +11,8 @@
     background: linear-gradient(45deg , transparent , var(--color-primary));
 }
 .about_me_image{
-    width: 417px;
-    height: 417px;
+    width: 418px;
+    height: 420px;
     transform: rotate(15deg);
     border-radius: 2rem;
       background-size: cover;
